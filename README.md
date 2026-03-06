@@ -6,10 +6,12 @@
 
 # Class: ENTC A1
 
-Aim
+# Aim
+
 To study and perform categorical data analysis using Python and the Pandas library, utilizing techniques such as frequency counting, cross-tabulation, percentage distribution, filtering, and grouping on structured datasets.
 
-Theory
+# Theory
+
 Categorical data represents types of data which may be divided into distinct groups or labels (e.g., categories like "Electronics", "Male", "Grade A"). Analyzing this type of data requires specific statistical techniques and functions to understand distributions and relationships:
 
 Frequency Counts (value_counts()): Determines how many occurrences of each categorical label exist in a dataset.
@@ -24,7 +26,8 @@ Filtering: Extracts specific subsets of data based on categorical conditions (e.
 
 Grouping (groupby()): Splits the data into distinct groups based on categorical criteria to perform multi-level aggregate calculations.
 
-Detailed Conclusion
+# Detailed Conclusion
+
 The experiment successfully implemented categorical data analysis on two distinct datasets—a synthetic e-commerce dataset and a student performance dataset—demonstrating how Pandas can extract immediate, actionable insights:
 
 E-commerce Data Insights:
